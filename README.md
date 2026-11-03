@@ -9,6 +9,6 @@
 
 | Решение | Задача |
 |---|---|
-| [Разбор чужой механики — `dao-razbor`](resheniya/razbor-mehaniki.md) | как устроен сайт, воронка, трекинг или приложение конкурента — с доказательствами и планом «как собрать у себя» |
+| [Разбор чужой механики — `daoreverse`](resheniya/daoreverse.md) | как устроен сайт, воронка, трекинг или приложение конкурента — с доказательствами и планом «как собрать у себя» |
 
-Сайт клуба — https://daoclub.ru · Telegram — @gastellove
+Сайт клуба — https://daoclub.ru · Telegram — [@gastellove](https://t.me/gastellove)
