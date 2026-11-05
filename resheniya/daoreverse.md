@@ -1,5 +1,3 @@
-<p align="center"><a href="https://github.com/daotut/club"><img src="../assets/banner-dao.png" alt="DAO CLUB" width="100%"></a></p>
-
 # Как разобрать чужую механику без исходников: REA, лёгкая альтернатива и наш `daoreverse`
 
 > Готовое решение библиотеки DAO CLUB. Задача: понять, как устроено у конкурента — сайт, воронка,
