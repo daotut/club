@@ -13,7 +13,7 @@ requires: [python3, playwright, jq]
 
 ## Установка — один раз
 
-1. Скопировать папку `daoreverse` в `.claude/skills/` своей системы. Источник — https://github.com/daotut/open/tree/main/skills/daoreverse
+1. Скопировать папку `daoreverse` в `.claude/skills/` своей системы. Источник — https://github.com/daotut/club/tree/main/skills/daoreverse
 2. Поставить браузер для разбора сайтов:
    ```bash
    python3 -m pip install --user playwright && python3 -m playwright install chromium

@@ -29,13 +29,13 @@
 
 Скажите своему ИИ-агенту:
 
-> Поставь скилл `daoreverse` из https://github.com/daotut/open/tree/main/skills/daoreverse — сначала покажи, что встанет и куда, и ставь после моего «да».
+> Поставь скилл `daoreverse` из https://github.com/daotut/club/tree/main/skills/daoreverse — сначала покажи, что встанет и куда, и ставь после моего «да».
 
 Или вручную:
 
 ```bash
-git clone https://github.com/daotut/open.git
-cp -R open/skills/daoreverse ~/.claude/skills/
+git clone https://github.com/daotut/club.git
+cp -R club/skills/daoreverse ~/.claude/skills/
 ```
 
 Дальше просто: «разбери, как устроено вот это» — и ссылка.

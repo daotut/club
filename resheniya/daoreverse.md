@@ -1,3 +1,5 @@
+<p align="center"><a href="https://github.com/daotut/club"><img src="../assets/banner-dao.png" alt="DAO CLUB" width="100%"></a></p>
+
 # Как разобрать чужую механику без исходников: REA, лёгкая альтернатива и наш `daoreverse`
 
 > Готовое решение библиотеки DAO CLUB. Задача: понять, как устроено у конкурента — сайт, воронка,
@@ -89,7 +91,7 @@
 
 Скилл открыт: [`skills/daoreverse`](../skills/daoreverse). Скажите своему ИИ-агенту:
 
-> Поставь скилл `daoreverse` из https://github.com/daotut/open/tree/main/skills/daoreverse — сначала покажи, что встанет и куда, и ставь после моего «да».
+> Поставь скилл `daoreverse` из https://github.com/daotut/club/tree/main/skills/daoreverse — сначала покажи, что встанет и куда, и ставь после моего «да».
 
 Дальше просто: «разбери, как устроено вот это» — и ссылка.
 
